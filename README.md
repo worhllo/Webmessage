@@ -226,6 +226,4 @@ npx wrangler d1 execute message-board-db --local --file=./schema.sql
 ## License
 
 MIT
-#� �w�e�b�-�m�e�s�s�a�g�e�
-�
-�
+
